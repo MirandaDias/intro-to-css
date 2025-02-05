@@ -39,7 +39,7 @@ nav a{
     color: #DEC9E9;
 }
 
-div > article{
+article>img{
     width: 150px;
     border-radius: 50%;
     filter: grayscale(100%);
